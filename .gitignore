@@ -13,3 +13,6 @@ __pycache__/
 .venv/
 venv/
 env/
+
+# Local-only study notes — not for GitHub
+VIVA-GUIDE.md
